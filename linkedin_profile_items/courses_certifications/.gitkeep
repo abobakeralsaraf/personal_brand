@@ -1,0 +1,18 @@
+# Courses & Certifications Storage
+
+This folder contains educational certificates and course completion documents.
+
+## Contents:
+- PDF certificates (original format from issuers)
+- WebP optimized versions (for web usage)
+- Conversion logs for each certificate
+
+## File Naming Convention:
+- Format: `[number]_[certificate_name].[format]`
+- Example: `01_Google_Digital_Marketing.pdf`
+- WebP versions: `01_Google_Digital_Marketing.webp`
+
+## Optimization Notes:
+- Target size: 300x400px for certificates
+- WebP compression for faster loading
+- Maintains quality for readability
